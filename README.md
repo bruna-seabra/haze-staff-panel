@@ -1,38 +1,38 @@
 # HAZE Staff Panel
 
-Projeto de um painel administrativo desenvolvido com foco em organização visual, navegação interna e simulação de gestão de equipe.
+Painel administrativo inspirado em sistemas reais, com foco em organização, usabilidade e estrutura de gestão interna.
 
-## Sobre o projeto
-Este projeto foi criado como forma de praticar desenvolvimento front-end e estruturação de interfaces semelhantes a sistemas reais.
+## 📌 Sobre o projeto
+Este projeto foi desenvolvido com o objetivo de simular um sistema administrativo utilizado para gestão interna de equipes.
 
-O painel possui:
-- tela de login
-- menu lateral de navegação
-- cards com informações e métricas
-- tabelas e áreas de gerenciamento
-- sistema visual de cargos, status e setores
+O sistema inclui:
+- Tela de login
+- Navegação com menu lateral
+- Organização de usuários por cargos
+- Visualização de dados em cards
+- Tabelas e áreas de gerenciamento
 
-## Tecnologias utilizadas
+## 💻 Tecnologias utilizadas
 - HTML
 - CSS
 - JavaScript
 
-## Objetivo
-O objetivo foi desenvolver uma interface com aparência profissional, focando em organização, experiência do usuário e estrutura de um sistema administrativo.
+## 🎯 Objetivo
+O foco principal foi desenvolver uma interface com aparência profissional, priorizando organização visual e experiência do usuário.
 
-## Melhorias futuras
-- integração com backend
-- banco de dados
-- autenticação real
-- responsividade aprimorada
+## 🚀 Melhorias futuras
+- Integração com backend
+- Banco de dados
+- Sistema de autenticação real
+- Responsividade para dispositivos móveis
 
-## Imagens do projeto
+## 📸 Imagens do projeto
 
-### Tela de login
-![Tela de login](assets/screenshot-login.png)
+### 🔐 Tela de Login
+![Login](assetsscreenshot-login.png)
 
-### Dashboard
-![Dashboard](assets/screenshot-dashboard.png)
+### 📊 Dashboard
+![Dashboard](assetsscreenshot-dashboard.png)
 
-### Área interna
-![Área interna](assets/screenshot-dashboard.png)
+### ⚙️ Área interna
+![Área interna](assetsscreenshot-opcoesinternas.png)
